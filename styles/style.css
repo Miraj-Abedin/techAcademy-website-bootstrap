@@ -1,3 +1,9 @@
 .register {
     height: 300px;
 }
+
+.icon a {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
